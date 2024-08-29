@@ -1,0 +1,85 @@
+{
+    "produtos":  [
+        {
+          "id": 1,
+          "name": "Nike",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 96.00,
+          "category": "Nike",
+          "image": "image-3.svg"
+        },
+        {
+          "id": 2,
+          "name": "Converse",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 85.50,
+          "category": "Converse",
+          "image": "image-2.svg"
+        },
+        {
+          "id": 3,
+          "name": "Nike",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 196.00,
+          "category": "Nike",
+          "image": "image-1.svg"
+        },
+        {
+          "id": 4,
+          "name": "Nike",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 115.00,
+          "category": "Nike",
+          "image": "image-4.svg"
+        },
+        {
+          "id": 5,
+          "name": "New Balance",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 96.00,
+          "category": "New Balance",
+          "image": "image-5.svg"
+        },
+        {
+          "id": 6,
+          "name": "Asics",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 96.00,
+          "category": "Asics",
+          "image": "image-6.svg"
+        },
+        {
+          "id": 7,
+          "name": "Nike",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 96.00,
+          "category": "Nike",
+          "image": "image-7.svg"
+        },
+        {
+          "id": 8,
+          "name": "Converse",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 85.5,
+          "category": "Converse",
+          "image": "image-1.svg"
+        },
+        {
+          "id": 9,
+          "name": "Nike",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 120.50,
+          "category": "Nike",
+          "image": "image-2.svg"
+        },
+        {
+          "id": 10,
+          "name": "Nike",
+          "description": "Air Force 1 Jester XX Black Sonic Yellow ...",
+          "price": 99.00,
+          "category": "Nike",
+          "image": "image-3.svg"
+        }
+      ]
+      
+}
